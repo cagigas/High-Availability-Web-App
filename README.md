@@ -1,4 +1,5 @@
 # Deploy a high-availability web app using CloudFormation
+![architecture-overview](High Availability.png)
 
 Server specs
 
