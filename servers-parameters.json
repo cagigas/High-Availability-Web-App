@@ -1,0 +1,46 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "cagigas"
+    },
+    {
+        "ParameterKey": "ASGMinSize",
+        "ParameterValue": "2"
+    },
+    {
+        "ParameterKey": "ASGMaxSize",
+        "ParameterValue": "6"
+    },
+    {
+        "ParameterKey": "ASGDesiredSize",
+        "ParameterValue": "4"
+    },
+    {
+        "ParameterKey": "HealthCheckIntervalSeconds",
+        "ParameterValue": "10"
+    },
+    {
+        "ParameterKey": "HealthCheckPath",
+        "ParameterValue": "/"
+    },
+    {
+        "ParameterKey": "HealthCheckProtocol",
+        "ParameterValue": "HTTP"
+    },
+    {
+        "ParameterKey": "HealthCheckTimeoutSeconds",
+        "ParameterValue": "8"
+    },
+    {
+        "ParameterKey": "HealthyThresholdCount",
+        "ParameterValue": "2"
+    },
+    {
+        "ParameterKey": "UnhealthyThresholdCount",
+        "ParameterValue": "2"
+    },
+    {
+        "ParameterKey": "EC2InstanceRole",
+        "ParameterValue": "cagigasInstance"
+    }
+]
