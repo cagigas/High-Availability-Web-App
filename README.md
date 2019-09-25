@@ -1,5 +1,6 @@
 # Deploy a high-availability web app using CloudFormation
-![architecture-overview](High Availability.png)
+![architecture-overview]()
+![alt text](https://github.com/cagigas/High-Availability-Web-App/blob/master/High%20Availability.png)
 
 Server specs
 
